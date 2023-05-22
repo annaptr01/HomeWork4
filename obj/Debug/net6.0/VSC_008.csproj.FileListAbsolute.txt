@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Рабочий стол\Folder_for_folders\VSC_008\bin\Debug\net6.0\VSC_008.exe
+C:\Users\HP\OneDrive\Рабочий стол\Folder_for_folders\VSC_008\bin\Debug\net6.0\VSC_008.deps.json
+C:\Users\HP\OneDrive\Рабочий стол\Folder_for_folders\VSC_008\bin\Debug\net6.0\VSC_008.runtimeconfig.json
+C:\Users\HP\OneDrive\Рабочий стол\Folder_for_folders\VSC_008\bin\Debug\net6.0\VSC_008.dll
+C:\Users\HP\OneDrive\Рабочий стол\Folder_for_folders\VSC_008\bin\Debug\net6.0\VSC_008.pdb
+C:\Users\HP\OneDrive\Рабочий стол\Folder_for_folders\VSC_008\obj\Debug\net6.0\VSC_008.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\Folder_for_folders\VSC_008\obj\Debug\net6.0\VSC_008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Рабочий стол\Folder_for_folders\VSC_008\obj\Debug\net6.0\VSC_008.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\Folder_for_folders\VSC_008\obj\Debug\net6.0\VSC_008.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Рабочий стол\Folder_for_folders\VSC_008\obj\Debug\net6.0\VSC_008.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\Folder_for_folders\VSC_008\obj\Debug\net6.0\VSC_008.dll
+C:\Users\HP\OneDrive\Рабочий стол\Folder_for_folders\VSC_008\obj\Debug\net6.0\refint\VSC_008.dll
+C:\Users\HP\OneDrive\Рабочий стол\Folder_for_folders\VSC_008\obj\Debug\net6.0\VSC_008.pdb
+C:\Users\HP\OneDrive\Рабочий стол\Folder_for_folders\VSC_008\obj\Debug\net6.0\VSC_008.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Рабочий стол\Folder_for_folders\VSC_008\obj\Debug\net6.0\ref\VSC_008.dll
