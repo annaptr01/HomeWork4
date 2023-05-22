@@ -5,10 +5,11 @@
 
 void StepenFinder(int a, int b)
 {
-    for(int i = 1; i <= a && i <= b; i++)
+    for(int count = 0; count >= b; count++)
     {
-
+        b = a * a;
     }
+    Console.WriteLine($"Number {a} -> {b}");
 
 }
 
@@ -31,13 +32,14 @@ int first_num = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Enter your second number: ");
 int second_num = Convert.ToInt32(Console.ReadLine());
 
+
 if(first_num > 0 && second_num > 0)
 {
-    StepenFinder(user_num);
+    StepenFinder(first_num, second_num);
 }
 else
 {
-    Console.WriteLine("Impossible value!")
+    Console.WriteLine("Impossible value!");
 }
 
 
